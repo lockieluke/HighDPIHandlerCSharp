@@ -1,0 +1,6 @@
+C:\Users\Way Luk\source\repos\High DPI Handler\High DPI Handler\bin\Debug\High DPI Handler.dll
+C:\Users\Way Luk\source\repos\High DPI Handler\High DPI Handler\bin\Debug\High DPI Handler.pdb
+C:\Users\Way Luk\source\repos\High DPI Handler\High DPI Handler\obj\Debug\High DPI Handler.csprojAssemblyReference.cache
+C:\Users\Way Luk\source\repos\High DPI Handler\High DPI Handler\obj\Debug\High DPI Handler.csproj.CoreCompileInputs.cache
+C:\Users\Way Luk\source\repos\High DPI Handler\High DPI Handler\obj\Debug\High DPI Handler.dll
+C:\Users\Way Luk\source\repos\High DPI Handler\High DPI Handler\obj\Debug\High DPI Handler.pdb
